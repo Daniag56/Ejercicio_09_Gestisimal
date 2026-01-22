@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class GestisimalMain{
     public static void main(String[] args) throws Exception {
         try (Scanner sc = new Scanner(System.in)) {
             int opcion, fila = 5,columna = 5;
